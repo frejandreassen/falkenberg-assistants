@@ -1,7 +1,6 @@
 import streamlit as st
 from openai import OpenAI
 import time 
-import numpy as np
 
 st.set_page_config(layout="wide")
 # Initialize OpenAI client
